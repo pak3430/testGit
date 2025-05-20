@@ -1,0 +1,29 @@
+# 가상환경
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*.so
+
+# IDE 관련
+.vscode/
+.idea/
+
+# OS 관련
+.DS_Store
+Thumbs.db
+
+# 로그/임시 파일
+*.log
+*.tmp
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# 테스트 커버리지
+htmlcov/
+.coverage
+
+# 환경 설정 파일
+.env
+
